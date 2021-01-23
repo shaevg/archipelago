@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>close.png</file>
+        <file>connect.png</file>
+        <file>info.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>load.gif</file>
+        <file>arkhipelago-background.png</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>AT_Avant.ttf</file>
+    </qresource>
+</RCC>
